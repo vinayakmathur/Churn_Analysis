@@ -18,3 +18,4 @@ Personal project for Data Anaylst Roles
 | Stockton       | 12          |
 
 ![Churn by City](Figure_1.png)
+![Churn by Service](Figure_3.png)
