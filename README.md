@@ -3,6 +3,7 @@ Personal project for Data Anaylst Roles
 
 
 #Numbers of Churn Per US Cities
+<table>
           City  Churn count
 0    Los Angeles           90
 1      San Diego           50
@@ -14,3 +15,4 @@ Personal project for Data Anaylst Roles
 7       Glendale           13
 8        Oakland           13
 9       Stockton           12
+</table>
