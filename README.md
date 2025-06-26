@@ -7,7 +7,7 @@ Personal project for Data Anaylst Roles
 <th>          City</th> <th> Churn count</th>
   <tr>
 <td>     Los Angeles         90</td>
-<tr>     San Diego           50</tr>
+<tr> <td>    San Diego           50</td></tr>
 <td>     San Francisco       31</td>
     <td>San Jose           29</td>
     <td> Sacramento           26</td>
