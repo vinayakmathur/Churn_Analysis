@@ -17,3 +17,4 @@ Personal project for Data Anaylst Roles
 | Oakland        | 13          |
 | Stockton       | 12          |
 
+![Churn by City](Figure_1.png)
