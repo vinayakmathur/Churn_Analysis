@@ -4,7 +4,7 @@ Personal project for Data Anaylst Roles
 
 #Numbers of Churn Per US Cities
 <table>
-<th>          City  Churn count</th>
+<th>          City</th> <th> Churn count</th>
 <td>0    Los Angeles           90</td>
 <td>1      San Diego           50</td>
 2  San Francisco           31
