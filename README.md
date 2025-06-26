@@ -2,7 +2,7 @@
 Personal project for Data Anaylst Roles
 
 
-#Numbers of Churn Per US Cities
+<h2>Numbers of Churn Per US Cities</h2>
 | City           | Churn Count |
 |----------------|-------------|
 | Los Angeles    | 90          |
