@@ -6,15 +6,15 @@ Personal project for Data Anaylst Roles
 <table>
 <th>          City</th> <th> Churn count</th>
   <tr>
-<td>0    Los Angeles           90</td>
-<td>1      San Diego           50</td>
-2  San Francisco           31
-3       San Jose           29
-4     Sacramento           26
-5         Fresno           16
-6     Long Beach           15
-7       Glendale           13
-8        Oakland           13
-9       Stockton           12
+<td>     Los Angeles         90</td>
+<td>     San Diego           50</td>
+<td>     San Francisco       31</td>
+    <td>San Jose           29</td>
+4    <td> Sacramento           26</td>
+5        <td> Fresno           16</td>
+6     <td>Long Beach           15</td>
+7      <td> Glendale           13</td>
+8        <td>Oakland           13</td>
+9      <td></td> Stockton           12</td>
   </tr>
 </table>
