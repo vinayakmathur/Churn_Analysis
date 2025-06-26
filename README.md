@@ -21,5 +21,8 @@ Personal project for Data Anaylst Roles
 ![Churn by Service](Figure_3.png)
 
 <h2>Conclusion</h2>
-<pr>This Analysis Concluded with the result that this data set contains more Non Churn Users than Churn Users. Churning of Users are influnceed by various features Top 10 are as shown in the image below. </pr>
+<pr>This Analysis Concluded with the result that this data set contains more Non Churn Users than Churn Users. Churning of Users are influnceed by various features Top 10 are as shown in the images below. </pr>
+
+![Churn VS Non Churn](Figure_4.png)
+![Factors of Churn](Fig_1.png)
 
