@@ -24,7 +24,7 @@ Personal project for Data Anaylst Roles
 <pr>This Analysis Concluded with the result that this data set contains more Non Churn Users than Churn Users. Churning of Users are influnceed by various features Top 10 are as shown in the images below. </pr>
 
 <h2>Machine Learning Prediction Model Results</h2>
-<pr> Random Forest Classification also Suggest There is less Non Churn Consumers in this Dataset. </pr>
+<pr> Random Forest Classification Model with 80% Accuracy also Suggest There is less Non Churn Consumers in this Dataset. </pr>
 
 <h2>Classification Report</h2>
 
