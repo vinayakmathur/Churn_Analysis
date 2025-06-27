@@ -77,6 +77,8 @@ Consumers Churn Data Analysis with Random Forest Predictive Classification Model
   </tbody>
 </table>
 
+
+<pr> In above report of prediction model '0' denotes Non churn and '1' denotes Churn Consumers of the services. </pr>
       
 ![Churn VS Non Churn](Figure_4.png)
 ![Factors of Churn](Fig_1.png)
