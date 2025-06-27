@@ -23,6 +23,9 @@ Personal project for Data Anaylst Roles
 <h2>Conclusion</h2>
 <pr>This Analysis Concluded with the result that this data set contains more Non Churn Users than Churn Users. Churning of Users are influnceed by various features Top 10 are as shown in the images below. </pr>
 
+<h2>Machine Learning Prediction Model Results</h2>
+<pr> Random Forest Classification also Suggest There is less Non Churn Consumers in this Dataset. </pr>
+
 <h2>Classification Report</h2>
 
 <table border="1" cellpadding="5" cellspacing="0">
@@ -57,6 +60,20 @@ Personal project for Data Anaylst Roles
     </tr>
     <tr>
       <td><strong>Macro Avg</strong></td>
+      <td>0.76</td>
+      <td>0.72</td>
+      <td>0.73</td>
+      <td>1409</td>
+    </tr>
+    <tr>
+      <td><strong>Weighted Avg</strong></td>
+      <td>0.79</td>
+      <td>0.80</td>
+      <td>0.79</td>
+      <td>1409</td>
+    </tr>
+  </tbody>
+</table>
 
       
 ![Churn VS Non Churn](Figure_4.png)
