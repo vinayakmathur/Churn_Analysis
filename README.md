@@ -1,5 +1,7 @@
 # Churn_Analysis
-Personal project for Data Anaylst Roles
+Personal project for Data Anaylst Roles with Predictive Classification Model
+
+![Predict Modeling](predicmodel.png)
 
 
 <h1>Numbers of Churn Per US Cities</h1>
