@@ -19,7 +19,6 @@ Consumers Churn Data Analysis with Random Forest Predictive Classification Model
 | Oakland        | 13          |
 | Stockton       | 12          |
 
-![Churn by City](Fig_1.png)
 <H2>US Cities wise Churn VS non Churn Customers</H2>
 
 ![Churn by City](Figure_1.png)
