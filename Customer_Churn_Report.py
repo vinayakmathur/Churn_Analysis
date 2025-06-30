@@ -152,3 +152,22 @@ feat_importances = pd.Series(rf.feature_importances_, index=X.columns)
 feat_importances.nlargest(10).plot(kind='barh')
 plt.title("Top 10 Features Influencing Churn")
 plt.show()
+
+churn_yes = df[df['Churn Label'] == 'Yes'].groupby('City')['CustomerID'].count().sort_values(ascending=False).head(10)
+
+# Top 10 non-churned cities
+churn_no = df[df['Churn Label'] == 'No'].groupby('City')['CustomerID'].count().sort_values(ascending=False).head(10)
+
+# Combine into a single DataFrame
+churn_df = pd.DataFrame({
+    'Churned': churn_yes,
+    'Not Churned': churn_no
+}).fillna(0)  # Fill NaN with 0 where city is not in both
+
+# Plot
+churn_df.plot(kind='bar', figsize=(12,6), title='Top Cities: Churned vs Not Churned Customers')
+plt.ylabel('Number of Customers')
+plt.xticks(rotation=45)
+plt.tight_layout()
+plt.show()
+
