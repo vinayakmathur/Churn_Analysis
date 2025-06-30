@@ -20,6 +20,13 @@ Consumers Churn Data Analysis with Random Forest Predictive Classification Model
 | Stockton       | 12          |
 
 ![Churn by City](Figure_1.png)
+<H2>US Cities wise Churn VS non Churn Customers</H2>
+
+![Churn by City](Figure_1.png)
+
+
+
+
 ![Churn by Service](Figure_3.png)
 
 <h2>Conclusion</h2>
